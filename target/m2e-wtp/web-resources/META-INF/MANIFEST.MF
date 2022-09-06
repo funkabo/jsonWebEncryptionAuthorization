@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: funkabo
+Build-Jdk: 17
+Implementation-Title: authorization-service
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: se.funkabo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/authorization-service
+Main-Class: se.funkabo.Application
+Created-By: Maven Integration for Eclipse
+
